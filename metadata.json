@@ -1,0 +1,8 @@
+{
+  "name": "AniMate",
+  "description": "A beginner-friendly 2D character animation studio powered by Gemini. Create, animate, and bring characters to life with an intuitive timeline and AI tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
